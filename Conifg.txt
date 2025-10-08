@@ -1,2 +1,2 @@
-intervall: 5
+intervall: 1
 noControll: false
