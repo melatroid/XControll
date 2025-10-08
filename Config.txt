@@ -9,7 +9,7 @@ client_3: false
 client_4: false
 client_5: false
 client_6: false
-client_7: false
+client_7: true
 client_8: false
 client_9: false
 client_10: false
