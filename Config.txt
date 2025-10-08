@@ -2,7 +2,7 @@ serviceruns: true
 intervall: 1
 captchaTimeout: 20
 noControll: false
-hardkey:
+hardkey: 123456
 client_1: false
 client_2: false
 client_3: false
