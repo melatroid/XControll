@@ -1,4 +1,4 @@
-intervall: 1
+intervall: 10
 captchaTimeout: 20
 noControll: false
 hardkey: 
