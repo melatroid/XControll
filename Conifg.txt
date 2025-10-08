@@ -1,3 +1,4 @@
 intervall: 1
+captchaTimeout: 20
 noControll: false
 hardkey: kH23Lm
