@@ -1,2 +1,3 @@
 intervall: 1
 noControll: false
+hardkey: kH23Lm
