@@ -1,7 +1,7 @@
 intervall: 1
 captchaTimeout: 20
 noControll: false
-hardkey: kH23Lm
+hardkey: 
 client_1: false
 client_2: false
 client_3: false
